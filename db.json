@@ -1,0 +1,49 @@
+{
+    "Laboratorio":[
+        {
+            "id_Producto": 1,
+            "IMG_Producto": "Producto 1",
+            "Precio":5000
+        },
+        {
+            "id_Producto": 2,
+            "IMG_Producto": "Producto 2",
+            "Precio":6000
+        },
+        {
+            "id_Producto": 3,
+            "IMG_Producto": "Producto 3",
+            "Precio":5000
+        },
+        {
+            "id_Producto": 4,
+            "IMG_Producto": "Producto 4",
+            "Precio":8000
+        },
+        {
+            "id_Producto": 5,
+            "IMG_Producto": "Producto 5",
+            "Precio":10000
+        },
+        {
+            "id_Producto": 6,
+            "IMG_Producto": "Producto 6",
+            "Precio":4500
+        },
+        {
+            "id_Producto": 7,
+            "IMG_Producto": "Producto 7",
+            "Precio":8000
+        },
+        {
+            "id_Producto": 8,
+            "IMG_Producto": "Producto 8",
+            "Precio":10000
+        },
+        {
+            "id_Producto": 9,
+            "IMG_Producto": "Producto 9",
+            "Precio":4500
+        }
+    ]
+}
